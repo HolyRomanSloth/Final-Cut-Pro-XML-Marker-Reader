@@ -1,0 +1,8 @@
+Created by Albie Snyder
+June 16, 2020
+
+This project can take in a XML from Final Cut Pro's export XML feature
+
+https://support.apple.com/guide/final-cut-pro/use-xml-to-transfer-projects-verdbd66ae/mac
+
+and exports the markers as a dictionary in Python.
